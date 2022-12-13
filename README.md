@@ -32,7 +32,6 @@ To launch the unittest:
 tox swagger_server/test/unit_test
 ```
 
-Replace your `G_API_KEY` in `tox.init`
 To launch the integration tests, replace your `G_API_KEY` in `tox.init` and run:
 ```bash
 tox swagger_server/test/integration_test 
