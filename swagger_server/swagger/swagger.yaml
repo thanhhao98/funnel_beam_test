@@ -21,7 +21,7 @@ paths:
           default: Computer History Museum Mountain View USA
       responses:
         "200":
-          description: successful operation
+          description: None empty address for querry to service
           content:
             application/json:
               schema:
