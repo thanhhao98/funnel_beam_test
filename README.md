@@ -1,5 +1,3 @@
-# Swagger generated server
-
 # Find Phone Number
 This service for finding `formatted_phone_number` from `address` by using google api.
 ## CodeGen information
