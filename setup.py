@@ -16,6 +16,7 @@ REQUIRES = [
     "swagger-ui-bundle>=0.0.2"
 ]
 
+
 setup(
     name=NAME,
     version=VERSION,
